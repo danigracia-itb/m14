@@ -1,0 +1,7 @@
+{
+  "name": "IonicDaniGracia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
